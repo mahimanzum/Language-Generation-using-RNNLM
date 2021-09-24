@@ -4,7 +4,7 @@ we used quora question pairs dataset to generates sentances from a continues spa
 Used google colab. just run block by block.
 dataset Link:
 
-https://www.kaggle.com/quora/question-pairs-dataset/downloads/question-pairs-dataset.zip/2
+https://www.kaggle.com/c/quora-question-pairs
 
 you will also need a glove embedding for our case we used  glove 6B300D. 
 here is the link you can download from
